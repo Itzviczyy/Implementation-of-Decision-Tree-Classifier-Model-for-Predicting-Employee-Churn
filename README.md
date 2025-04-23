@@ -9,8 +9,11 @@ To write a program to implement the Decision Tree Classifier Model for Predictin
 
 ## Algorithm
 Step 1: Data Preprocessing
+
 Step 2: Train-Test Split
+
 Step 3: Train the Model
+
 Step 4: Predict and Evaluate
 
 ## Program:
